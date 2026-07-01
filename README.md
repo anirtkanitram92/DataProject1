@@ -1,2 +1,3 @@
-# DataProject1
-Proyecto del módulo "Dashboard &amp; Analisis de Datos"
+# ANÁLISIS DEL IMPACTO DE LA IA EN ESTUDIANTES
+Análisis exploratorio del uso de IA en un conjunto de estudiantes. 
+Objetivo: Identificar patrones y su impacto.
