@@ -13,5 +13,7 @@ Análisis exploratorio del uso de IA en un conjunto de estudiantes.
 *Descripción del proyecto*
 
 > *Transformación y limpieza de datos"
+
     1. Sustitución de "." por "," a través de Power Query para evitar problemas de formato con los números decimales.
+   
     2. Revisión de duplicados en la columna "Student_ID"
