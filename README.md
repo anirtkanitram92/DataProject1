@@ -20,7 +20,7 @@ Análisis exploratorio del uso de IA en un conjunto de estudiantes.
 
     3. Inclusión de numerales para ordenar las categorías dentro de "Year of Study" por antigüedad.
 
-    4. Inclusión de numerales para ordenar las categorías dentro de "Promp Engineering Skills" de menor a mayor habilidad.
+    4. Inclusión de numerales para ordenar las categorías dentro de "Prompt Engineering Skills" de menor a mayor habilidad.
 
 > *Análisis descriptivo de los datos*
 
