@@ -18,6 +18,10 @@ Análisis exploratorio del uso de IA en un conjunto de estudiantes.
    
     2. Revisión de duplicados en la columna "Student_ID" (no se encontraron).
 
+    3. Inclusión de numerales para ordenar las categorías dentro de "Year of Study" por antigüedad.
+
+    4. Inclusión de numerales para ordenar las categorías dentro de "Promp Engineering Skills" de menor a mayor habilidad.
+
 > *Análisis descriptivo de los datos*
 
     1. Pestaña "Dataset": La base de datos "ai_student_impact_dataset" nos ofrece información sobre 50.000 estudiantes estadounidenses de diferentes ramas (desde arte hasta STEM) y niveles (desde freshman hasta graduate), el uso que hacen de la IA: qué nivel de promp engineering tienen, para qué la utilizan, si pagan o no suscripción, cuántas horas le han dedicado, y luego algunos datos para valorar su impacto a través de las notas antes y después del semestre, el nivel de dependencia que tienen de la IA, el nivel de ansiedad durante los exámenes o el riesgo de Burnout. 
