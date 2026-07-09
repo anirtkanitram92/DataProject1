@@ -31,3 +31,13 @@ Análisis exploratorio del uso de IA en un conjunto de estudiantes.
     3. Pestaña "Dashboard": pestaña final con los gráficos y big numbers que sirven para explorar los datos del dataset.
 
 > *Dashboard*
+
+    El dashboard está diseñado para analizar el impacto, los hábitos de uso y la influencia de la inteligencia artificial en el rendimiento académico y el estado psicológico de los estudiantes universitarios en Estados Unidos. En la parte superior, el cuadro de mando destaca de forma global la evolución de las calificaciones académicas de los alumnos antes y después de integrar la IA en su rutina, complementado con indicadores que miden su nivel de dependencia hacia estas herramientas y el nivel de ansiedad que experimentan frente a los exámenes.
+
+El cuerpo central y los gráficos de la izquierda se enfocan en caracterizar sociodemográfica y técnicamente a la población estudiantil analizada. El dashboard segmenta a los alumnos según su área de estudio (como ciencias, humanidades o salud), el año de carrera que cursan y su nivel de destreza técnica en la redacción de instrucciones (prompting). Además, incluye un desglose que identifica el propósito principal para el cual utilizan la IA en su día a día académico, como la resolución de problemas técnicos, la redacción de textos o la generación de ideas.
+
+Por último, el panel incluye un módulo comparativo que examina el balance entre el tiempo dedicado al uso de la inteligencia artificial y las horas destinadas al estudio tradicional, diferenciando los hábitos de los alumnos en función de si utilizan versiones de IA de pago o gratuitas.
+
+Toda esta información se puede ver desde distintos ángulos gracias a los segmentadores situados en la esquina inferior derecha.
+
+> *Informe explicativo del análisis*
